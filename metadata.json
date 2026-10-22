@@ -1,0 +1,6 @@
+{
+  "name": "DispatchGo",
+  "description": "Real-time delivery management platform for riders and dispatchers with live routing, orders queue, and fleet tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
